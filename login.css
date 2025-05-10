@@ -1,0 +1,88 @@
+.body {
+
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.heading {
+
+    height: 150px;
+    width: 100%;
+
+}
+
+.form {
+
+    height: 350px;
+    width: 100%;
+    background-color: khaki;
+    text-align: center;
+    box-shadow: 0px 0px 30px 5px #ddd;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+
+.line {
+
+    border: 1px solid khaki;
+    height: 10px;
+    width: 10%;
+    text-align: center;
+}
+
+.name {
+
+    border: 1px solid khaki;
+    height: 30px;
+    width: 280px;
+    border-radius: 3px;
+
+}
+
+.login {
+
+    border: none;
+    border-radius: 3px;
+    background-color: rgb(59, 216, 195);
+    color: white;
+    font-size: 20px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+
+.login1 {
+
+    font-size: large;
+    text-decoration: none;
+
+}
+
+.login:hover {
+
+    cursor: pointer;
+    background-color: yellow;
+}
+
+.forgetten {
+
+    text-decoration: underline;
+}
+
+.signup {
+
+    border: none;
+    height: 30px;
+    width: 70px;
+    background-color: #ffc221;
+}
+
+.signup:hover {
+
+    cursor: pointer;
+}
+
+.signup1 {
+
+    color: black;
+    font-size: large;
+    text-decoration: none;
+}

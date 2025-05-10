@@ -1,0 +1,77 @@
+.body{
+
+    margin: 0px;
+    padding: 0px;
+}
+
+.main{
+
+    height: 620px;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    object-fit: cover;
+    background-image: url(photo/download\ \(2\).jpeg);
+    object-fit: cover;
+
+}
+
+.topic{
+
+    height: 100px;
+    width: 100%;
+    border: 2px rgba(255, 0, 0, 0);
+    
+}
+
+form{
+
+    height: 250px;
+    width: 50%;
+    box-shadow: 0px 0px 20px 5px;
+    padding-top: 30px;
+    background-color: olive;
+    background-image: url(photo/download\ \(4\).jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+
+.name{
+
+    height: 30px;
+    width: 35%;
+    color: black;
+    border: 2px solid #ffc221;
+    border: 2px solid #ffc221;
+
+}
+
+.link{
+
+    color: white;
+    text-decoration: none;
+}
+
+.link:hover{
+
+    color: black;
+}
+
+.sing-up{
+
+    height: 30px;
+    width: 100px;
+    background-color: black;
+    color: white;
+    font-size: larger;
+    cursor: pointer;
+
+}
+
+.sing-up:hover{
+
+    background-color: #ffc221;
+}
+

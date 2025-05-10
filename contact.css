@@ -1,0 +1,311 @@
+.body{
+
+    padding: 0px;
+    margin: 0px;
+}
+
+
+
+.main {
+
+    background-color: white;
+    height: 1100px;
+    width: 100%;
+
+}
+
+.main_upper {
+
+    background-color: #ffc107;
+    height: 50px;
+    width: 100%;
+
+}
+
+.main_upper_left {
+
+    height: 50px;
+    width: 50%;
+    float: left;
+
+}
+
+.main_upper_right {
+
+    height: 50px;
+    width: 49%;
+    text-align: center;
+    float: right;
+    font-size: larger;
+    margin-top: 10px;
+}
+
+.alllink {
+
+    text-align: center;
+    margin-top: 15px;
+    margin-left: 10px;
+    padding-left: 5px;
+    height: 25px;
+    color: black;
+
+}
+
+.link {
+
+    margin-left: 30px;
+    margin-right: 10px;
+    color: black;
+
+}
+
+.titlebar {
+
+    height: 100px;
+    background-color: white;
+}
+
+.titlebar_left {
+
+    background-color: white;
+    width: 28%;
+    text-align: center;
+    float: left;
+    height: 100px;
+    width: 24%;
+
+}
+
+.image {
+
+    margin-left: 20px;
+    margin-top: 15px;
+
+}
+
+.link1 {
+
+    text-align: center;
+    margin: 30px;
+    color: black;
+    text-decoration: none;
+
+}
+
+.link1:hover {
+
+    color: #ffc107;
+}
+
+.button {
+
+    color: black;
+    background-color: #ffc107;
+    
+
+}
+
+.titlebar_right {
+
+    height: 100px;
+    background-color: white;
+    width: 100%;
+    text-align: center;
+    padding-top: 35px;
+    padding-inline: 10px;
+    margin-right: 45px;
+    font-size: larger;
+
+}
+
+
+.contact{
+
+    height: 120px;
+    background-color: #ffc107;
+    width: 100%;
+    text-align: center;
+    font-size: xx-large;
+    padding-top: 80px;
+
+}
+
+.main_contant{
+
+    height: 500px;
+    width: 100%;
+    background-color: aqua;
+
+}
+
+.contact_menu{
+
+    height: 500px;
+    width: 100%;
+    background-color: white;
+    text-align: center;
+    
+}
+
+.box{
+
+    border: 2px solid #ffc107;
+    margin-top: 50px;
+    height: 50px;
+    width: 35%;
+    text-align: center;
+    margin-left: 50px;
+
+}
+
+.box2{
+
+    border: 2px solid #ffc107;
+    height: 50px;
+    width: 75%;
+    text-align: center;
+    margin-left: 50px
+
+}
+
+.box3{
+
+    border: 2px solid #ffc107;
+    height: 100px;
+    width: 75%;
+    text-align: center;
+    margin-left: 50px
+
+}
+
+.message{
+
+    background-color: white;
+    text-align: center;
+    height: 200px;
+    width: 25px;
+    margin-left: 600px;
+    
+
+}   
+
+.message1{
+
+    border: 2px solid #ffc107;
+    color: white;
+    height: 45px;
+    width: 180px;
+    background-color: black;
+
+}
+
+.message1:hover{
+
+    background-color: #ffc107;
+    color: black;
+}
+
+
+.main_footer {
+
+    background-color: black;
+    height: 168px;
+    width: 100%;
+}
+
+.main_footer_upper {
+
+    background-color: black;
+    height: 280px;
+    width: 100%;
+}
+
+.ftil {
+
+    border: 2px solid black;
+    height: 60px;
+    text-align: center;
+    width: 50%;
+    margin-left: 320px;
+    border-color: black;
+    margin-top: 20px;
+    padding-top: 15px;
+}
+
+.link4 {
+
+    padding-left: 20px;
+    margin-left: 20px;
+    margin-top: 10px;
+
+}
+
+
+.main_footer_lower {
+
+    background-color: yellow;
+    height: 50px;
+    width: 100%;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.left1 {
+
+    background-color: black;
+    height: 50px;
+    width: 24%;
+    float: left;
+    margin-left: left;
+    margin-top: 20px;
+
+}
+
+.left2 {
+
+    background-color: black;
+    height: 50px;
+    width: 24%;
+    float: left;
+    margin-left: left;
+    margin-top: 20px;
+
+}
+
+.left3 {
+
+    background-color: black;
+    height: 50px;
+    width: 24%;
+    float: left;
+    margin-left: left;
+    margin-top: 20px;
+}
+
+.right4 {
+
+    background-color: black;
+    height: 40px;
+    width: 20%;
+    float: left;
+    margin-left: right;
+    margin-top: 20px;
+
+}
+
+.text1 {
+
+    padding-left: 69px;
+    margin-left: 30px;
+    font-size: large;
+    padding-top: 2px;
+    color: white;
+}
+
+.text2 {
+
+    padding-left: 90px;
+    margin-left: 8px;
+    font-size: large;
+    color: white;
+}
